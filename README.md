@@ -16,7 +16,7 @@ ScrabbleV1/
 ```
 
 ## Objectifs pédagogiques
-1. Versionning du code avec *Git / Github*  Commandes Git : `git init` / `git clone` / `git commit` / `git push` / ...
+1. Versionning du code avec *Git / Github*     Commandes Git : `git init` / `git clone` / `git commit` / `git push` / ...
 2. Ajout fichier *README* / utilisation de la syntaxe *Markdown*
 3. Ajout fichier *.gitignore*
 4. Gestion des *issues*
