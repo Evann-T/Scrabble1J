@@ -7,7 +7,15 @@ Projet SCRABBLE - Mode 1 joueur
 + Traitement des **demandes de corrections et d'évolutions**
 
 ## Arborescence des fichiers
-
+```
+ScrabbleV1/
+  |-- FondScrabble.png
+  |-- MainWindows.xaml
+  |  |--MainWindows.xaml.cs
+  |-- Utilitaire.cs
+```
 
 ## Objectifs pédagogiques
 1. Versionning du code avec *Git / Github*
+2. 
+   
